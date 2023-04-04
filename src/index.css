@@ -11,6 +11,7 @@ body {
 }
 
 .title {
+  background-color: antiquewhite;
   color: rgb(250, 1, 51);
   font-style: normal;
   text-transform: uppercase;
